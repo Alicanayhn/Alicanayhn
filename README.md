@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Ali Can Ayhan</h1>
 <h3 align="center">I'm computer engineering student at Uludag University in TURKEY</h3>
 
-- 🔭 I’m currently working on **Data scince,Image Processing**
+- 🔭 I’m currently working on **Data science,Image Processing**
 
-- 🌱 I’m currently learning **Machine Learning,Features Engineering**
+- 🌱 I’m currently learning **Machine Learning,Feature Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Alicanayhn](https://github.com/Alicanayhn)
 
