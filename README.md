@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  I build <b>LLM-powered systems</b> that go beyond the demo — retrieval, agents, evaluation and the pipelines that keep them running in production.
+  I build <b>LLM-powered systems</b> and train <b>machine learning models</b> that go beyond the demo — retrieval, agents, predictive models and the pipelines that keep them running in production.
 </p>
 
 ---
@@ -13,6 +13,7 @@
 <table>
   <tr><td>🔎 <b>RAG systems</b></td><td>retrieval pipelines, chunking & embeddings, grounded answers over messy enterprise data</td></tr>
   <tr><td>🤖 <b>LLM agents</b></td><td>tool use, multi-step workflows, agents that talk to real databases and APIs</td></tr>
+  <tr><td>📈 <b>Machine Learning</b></td><td>training & tuning models — classification, regression, forecasting — with feature engineering and solid evaluation</td></tr>
   <tr><td>📄 <b>Document AI</b></td><td>extracting structured data from PDFs, invoices, reports</td></tr>
   <tr><td>⚙️ <b>MLOps / LLMOps</b></td><td>CI/CD for ML, experiment tracking, retraining, containerized deployments</td></tr>
   <tr><td>🔁 <b>Data pipelines</b></td><td>scheduled ingestion & ETL feeding the models</td></tr>
