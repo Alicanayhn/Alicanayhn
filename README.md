@@ -30,6 +30,13 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <br/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge" alt="CatBoost" />
+  <img src="https://img.shields.io/badge/Optuna-2C3E8C?style=for-the-badge" alt="Optuna" />
+  <br/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
@@ -41,8 +48,8 @@
 ### 📌 Featured projects
 
 <table>
-  <tr><td width="50%" valign="top"><a href="https://github.com/Alicanayhn/LLM-Based-ChatBot"><b>LLM-Based-ChatBot</b></a><br/>Full-stack LLM chatbot — frontend, backend, Postgres, MLflow and a Jenkins pipeline, all in Docker Compose.</td><td width="50%" valign="top"><a href="https://github.com/Alicanayhn/Chatbot-MLOps"><b>Chatbot-MLOps</b></a><br/>Experiment tracking & model registry stack for the chatbot, built on MLflow.</td></tr>
-  <tr><td width="50%" valign="top"><a href="https://github.com/Alicanayhn/Jenkins-With-Docker"><b>Jenkins-With-Docker</b></a><br/>CI/CD playground: building, testing and shipping a containerized app with Jenkins.</td><td width="50%" valign="top"><a href="https://github.com/Alicanayhn/Web-Based-Predictive-Maintenance-Project"><b>Predictive Maintenance</b></a><br/>Web app that predicts equipment failures from sensor data with classic ML.</td></tr>
+  <tr><td width="50%" valign="top"><a href="https://github.com/Alicanayhn/Okuler-Hastalik-Teshisinde-Difuzyon-Tabanli-Veri-Arttirma-Metodolojisi-ve-Karar-Destek-Sistemi"><b>Ocular Disease Diagnosis × Diffusion</b></a><br/>Retinal fundus image classification (ODIR-5K) boosted with <b>Stable Diffusion</b>–generated training data; best CNN served in a Flask decision-support app. <i>Graduation project.</i></td><td width="50%" valign="top"><a href="https://github.com/Alicanayhn/Child-Mind-Institute---Problematic-Internet-Use"><b>Problematic Internet Use</b></a><br/>Kaggle — predicting problematic internet use in kids from the Healthy Brain Network data: wearable time-series features, gradient boosting (LightGBM, CatBoost), Optuna tuning, LSTM &amp; Prophet.</td></tr>
+  <tr><td width="50%" valign="top"><a href="https://github.com/Alicanayhn/Web-Based-Predictive-Maintenance-Project"><b>Predictive Maintenance</b></a><br/>Web app that predicts equipment failures from sensor data with classic ML.</td><td width="50%" valign="top"><a href="https://github.com/Alicanayhn/Miuul_Machine_Learning_Bootcamp"><b>ML Bootcamp Notebooks</b></a><br/>From pandas &amp; EDA to feature engineering and model building — my machine learning foundations.</td></tr>
 </table>
 
 ### 📊 Stats <sub>— refreshed every night</sub>
