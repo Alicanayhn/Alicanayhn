@@ -10,13 +10,13 @@
 
 ### 🧠 What I work on
 
-| | |
-|---|---|
-| 🔎 **RAG systems** | retrieval pipelines, chunking & embeddings, grounded answers over messy enterprise data |
-| 🤖 **LLM agents** | tool use, multi-step workflows, agents that talk to real databases and APIs |
-| 📄 **Document AI** | extracting structured data from PDFs, invoices, reports |
-| ⚙️ **MLOps / LLMOps** | CI/CD for ML, experiment tracking, retraining, containerized deployments |
-| 🔁 **Data pipelines** | scheduled ingestion & ETL feeding the models |
+<table>
+  <tr><td>🔎 <b>RAG systems</b></td><td>retrieval pipelines, chunking & embeddings, grounded answers over messy enterprise data</td></tr>
+  <tr><td>🤖 <b>LLM agents</b></td><td>tool use, multi-step workflows, agents that talk to real databases and APIs</td></tr>
+  <tr><td>📄 <b>Document AI</b></td><td>extracting structured data from PDFs, invoices, reports</td></tr>
+  <tr><td>⚙️ <b>MLOps / LLMOps</b></td><td>CI/CD for ML, experiment tracking, retraining, containerized deployments</td></tr>
+  <tr><td>🔁 <b>Data pipelines</b></td><td>scheduled ingestion & ETL feeding the models</td></tr>
+</table>
 
 ### 🛠 Tech stack
 
@@ -39,10 +39,10 @@
 
 ### 📌 Featured projects
 
-| | |
-|---|---|
-| **[LLM-Based-ChatBot](https://github.com/Alicanayhn/LLM-Based-ChatBot)**<br/>Full-stack LLM chatbot — frontend, backend, Postgres, MLflow and a Jenkins pipeline, all in Docker Compose. | **[Chatbot-MLOps](https://github.com/Alicanayhn/Chatbot-MLOps)**<br/>Experiment tracking & model registry stack for the chatbot, built on MLflow. |
-| **[Jenkins-With-Docker](https://github.com/Alicanayhn/Jenkins-With-Docker)**<br/>CI/CD playground: building, testing and shipping a containerized app with Jenkins. | **[Predictive Maintenance](https://github.com/Alicanayhn/Web-Based-Predictive-Maintenance-Project)**<br/>Web app that predicts equipment failures from sensor data with classic ML. |
+<table>
+  <tr><td width="50%" valign="top"><a href="https://github.com/Alicanayhn/LLM-Based-ChatBot"><b>LLM-Based-ChatBot</b></a><br/>Full-stack LLM chatbot — frontend, backend, Postgres, MLflow and a Jenkins pipeline, all in Docker Compose.</td><td width="50%" valign="top"><a href="https://github.com/Alicanayhn/Chatbot-MLOps"><b>Chatbot-MLOps</b></a><br/>Experiment tracking & model registry stack for the chatbot, built on MLflow.</td></tr>
+  <tr><td width="50%" valign="top"><a href="https://github.com/Alicanayhn/Jenkins-With-Docker"><b>Jenkins-With-Docker</b></a><br/>CI/CD playground: building, testing and shipping a containerized app with Jenkins.</td><td width="50%" valign="top"><a href="https://github.com/Alicanayhn/Web-Based-Predictive-Maintenance-Project"><b>Predictive Maintenance</b></a><br/>Web app that predicts equipment failures from sensor data with classic ML.</td></tr>
+</table>
 
 ### 📊 Stats <sub>— refreshed every night</sub>
 
@@ -62,7 +62,7 @@
 
 ### ⚡ Fun facts
 
-- 🐍 The snake above is eating my real commits — feed it by starring a repo 😄
+- 🐍 The snake above is eating my real commits — every commit is a snack 😄
 - 🧪 Favorite debugging tool: asking the model *why* it said that
 - 🎓 Computer Engineering @ Uludağ University
 - 🌱 Currently exploring: agent evaluation & the Model Context Protocol (MCP)
