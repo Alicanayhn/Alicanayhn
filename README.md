@@ -1,27 +1,76 @@
-![MasterHead](https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg)
-
-<h1 align="center">Hi 👋, I'm Ali Can Ayhan</h1>
-<h3 align="center">I'm computer engineering student at Uludag University in TURKEY</h3>
-
-- 🔭 I’m currently working on **Data science,Image Processing**
-
-- 🌱 I’m currently learning **Machine Learning,Feature Engineering**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Alicanayhn](https://github.com/Alicanayhn)
-
-- 📫 How to reach me **alicanayhn@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-can-ayhan-78a283229" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-can-ayhan-78a283229" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/alicanayhn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/alicanayhn/" height="30" width="40" /></a>
+<p align="center">
+  <img src="assets/header.svg" alt="Ali Can Ayhan — AI / LLM Engineer" width="100%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+  I build <b>LLM-powered systems</b> that go beyond the demo — retrieval, agents, evaluation and the pipelines that keep them running in production.
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicanayhn&show_icons=true&locale=en&layout=compact" alt="alicanayhn" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicanayhn&show_icons=true&locale=en" alt="alicanayhn" /></p>
+### 🧠 What I work on
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicanayhn&" alt="alicanayhn" /></p>
+| | |
+|---|---|
+| 🔎 **RAG systems** | retrieval pipelines, chunking & embeddings, grounded answers over messy enterprise data |
+| 🤖 **LLM agents** | tool use, multi-step workflows, agents that talk to real databases and APIs |
+| 📄 **Document AI** | extracting structured data from PDFs, invoices, reports |
+| ⚙️ **MLOps / LLMOps** | CI/CD for ML, experiment tracking, retraining, containerized deployments |
+| 🔁 **Data pipelines** | scheduled ingestion & ETL feeding the models |
+
+### 🛠 Tech stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+### 📌 Featured projects
+
+| | |
+|---|---|
+| **[LLM-Based-ChatBot](https://github.com/Alicanayhn/LLM-Based-ChatBot)**<br/>Full-stack LLM chatbot — frontend, backend, Postgres, MLflow and a Jenkins pipeline, all in Docker Compose. | **[Chatbot-MLOps](https://github.com/Alicanayhn/Chatbot-MLOps)**<br/>Experiment tracking & model registry stack for the chatbot, built on MLflow. |
+| **[Jenkins-With-Docker](https://github.com/Alicanayhn/Jenkins-With-Docker)**<br/>CI/CD playground: building, testing and shipping a containerized app with Jenkins. | **[Predictive Maintenance](https://github.com/Alicanayhn/Web-Based-Predictive-Maintenance-Project)**<br/>Web app that predicts equipment failures from sensor data with classic ML. |
+
+### 📊 Stats <sub>— refreshed every night</sub>
+
+<p align="center">
+  <img src="metrics.svg" alt="GitHub metrics" />
+</p>
+<p align="center">
+  <img src="metrics-languages.svg" alt="Most used languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Alicanayhn/Alicanayhn/output/github-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Alicanayhn/Alicanayhn/output/github-snake.svg" alt="Snake eating my contribution graph" />
+  </picture>
+</p>
+
+### ⚡ Fun facts
+
+- 🐍 The snake above is eating my real commits — feed it by starring a repo 😄
+- 🧪 Favorite debugging tool: asking the model *why* it said that
+- 🎓 Computer Engineering @ Uludağ University
+- 🌱 Currently exploring: agent evaluation & the Model Context Protocol (MCP)
+
+### 📫 Let's connect
+
+<p>
+  <a href="https://www.linkedin.com/in/ali-can-ayhan-78a283229"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:alicanayhn@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/alicanayhn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
